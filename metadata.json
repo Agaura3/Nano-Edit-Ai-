@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NanoEdit: AI Image Wizard",
+  "description": "Transform and edit your images using natural language prompts powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
